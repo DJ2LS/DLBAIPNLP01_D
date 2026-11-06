@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+torch
+transformers>=5
+accelerate
+modal
+lingua-language-detector
+emoji

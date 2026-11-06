@@ -1,0 +1,4 @@
+split,reviews,avg_words,avg_bert_tokens,median_bert_tokens,share_over_256_tokens_%
+train,3680000,55.1,70.6,41,3.9
+val,460000,55.0,70.5,41,3.9
+test,460000,54.9,70.5,41,3.9
